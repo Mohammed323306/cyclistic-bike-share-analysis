@@ -1,7 +1,5 @@
 # 🚲 Cyclistic Bike-Share Case Study
 
----
-
 ## Project Overview
 
 This project analyzes bike-share usage data from **Cyclistic** to identify behavioral differences between **casual riders** and **annual members**.
