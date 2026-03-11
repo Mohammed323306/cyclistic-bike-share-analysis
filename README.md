@@ -1,11 +1,5 @@
 # 🚲 Cyclistic Bike-Share Case Study
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas)
-![EDA](https://img.shields.io/badge/Analysis-EDA-green)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
 ---
 
 ## Project Overview
