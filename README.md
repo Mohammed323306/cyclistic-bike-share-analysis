@@ -6,7 +6,7 @@ This project analyzes bike-share usage data from **Cyclistic** to identify behav
 
 The objective is to generate insights that can support marketing strategies aimed at **converting casual riders into annual members**.
 
-The complete workflow and analysis are available in the Jupyter notebook included in this repository.
+The complete workflow and analysis are available in the Jupyter notebook included in this repository (case-study.ipynb).
 
 ---
 
