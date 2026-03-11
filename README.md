@@ -42,7 +42,7 @@ The complete workflow and analysis are available in the Jupyter notebook include
 
 ## Example Visualization
 
-![Ride Patterns](images/cyclistic-analysis.png)
+![Ride Patterns](images/cyclistic-analysis.jpg)
 
 Example visualization highlighting differences in ride behavior between casual riders and annual members.
 
