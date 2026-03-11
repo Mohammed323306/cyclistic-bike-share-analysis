@@ -73,6 +73,7 @@ cyclistic-bike-share-case-study
 ├── README.md
 └── images
     └── cyclistic-analysis.png
+├── data.zip
 ```
 
 ---
