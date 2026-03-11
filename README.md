@@ -20,11 +20,9 @@ The complete workflow and analysis are available in the Jupyter notebook include
 
 ## Tools & Technologies
 
-* **Python**
+* **R**
 * **Jupyter Notebook**
-* **Pandas**
-* **NumPy**
-* **Matplotlib / Seaborn**
+* **Tableau**
 
 ---
 
