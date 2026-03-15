@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes bike-share usage data from **Cyclistic** to identify behavioral differences between **casual riders** and **annual members**.
+This project analyzes bike-share usage data from **Cyclistic** (a fictional company) to identify behavioral differences between **casual riders** and **annual members**.
 
 The objective is to generate insights that can support marketing strategies aimed at **converting casual riders into annual members**.
 
